@@ -1,0 +1,12 @@
+1. pranto bhai er final weight khuja
+4. pranto bhai er weight er upor amader distribution train deya
+2. pranto bhai er distribution shoho 1 lac train deya
+3. coco shoho 6000 train diye compare kora
+
+idea
+6. weight load in colab
+7. sobel filter implementation dekha
+8. gan implementation
+9. bayesian optimization
+
+(must) weight store
